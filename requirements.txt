@@ -1,12 +1,12 @@
-# pandas
-# numpy
-# matplotlib
-# seaborn
-# scikit-learn
-# nltk
-# spacy
-# jupyter
-# tqdm
-# ta
-# yfinance
-# transformers
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+spacy
+jupyter
+tqdm
+ta
+yfinance
+transformers
